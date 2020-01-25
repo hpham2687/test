@@ -7,4 +7,5 @@ this.dead = true;
 
 }
 
+
 module.export = cat;
